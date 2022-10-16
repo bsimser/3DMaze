@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# User specific settings
+/[Uu]serSettings/
+
+# JetBrains Rider Cache
+.idea/
+
+# Ignore all commercial assets and only include project files we create
+Assets/*
+!Assets/_Project
