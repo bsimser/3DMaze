@@ -58,7 +58,7 @@ Player control, by default, is set to the original control. This allows you to t
 4. Wait
 5. Profit (not really)
 
-[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/bsimser/3DMaze?color=ee8449&style=flat-square)](#contributors)
 
 ## Contributors
 
