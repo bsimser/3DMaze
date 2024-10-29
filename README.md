@@ -52,13 +52,13 @@ Player control, by default, is set to the original control. This allows you to t
 
 ## How to Contribute
 
+[![All Contributors](https://img.shields.io/github/all-contributors/bsimser/3DMaze?color=ee8449&style=flat-square)](#contributors)
+
 1. Clone the develop branch of this repository and create a new branch: `$ git checkout https://github.com/bsimser/3DMaze -b name_for_new_branch`
 2. Make changes, test, more changes, test, then test again
 3. Submit a Pull Request with a description of your changes
 4. Wait
 5. Profit (not really)
-
-[![All Contributors](https://img.shields.io/github/all-contributors/bsimser/3DMaze?color=ee8449&style=flat-square)](#contributors)
 
 ## Contributors
 
