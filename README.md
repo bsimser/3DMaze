@@ -40,6 +40,16 @@ Player control, by default, is set to the original control. This allows you to t
 
 * Unity 2021.x or higher (not tested with Unity 2022.x, might work on versions earlier than 2021 too)
 
+## Resources
+
+* [https://www.spriters-resource.com/pc_computer/3dmazescreensaver/sheet/124761/]()
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+3D Maze is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php) and is available for free.
+
 ## How to Contribute
 
 1. Clone the develop branch of this repository and create a new branch: `$ git checkout https://github.com/bsimser/3DMaze -b name_for_new_branch`
@@ -47,6 +57,8 @@ Player control, by default, is set to the original control. This allows you to t
 3. Submit a Pull Request with a description of your changes
 4. Wait
 5. Profit (not really)
+
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
 
 ## Contributors
 
@@ -58,15 +70,4 @@ Player control, by default, is set to the original control. This allows you to t
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Resources
-
-* [https://www.spriters-resource.com/pc_computer/3dmazescreensaver/sheet/124761/]()
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-3D Maze is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php) and is available for free.
-
 
