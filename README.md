@@ -48,6 +48,17 @@ Player control, by default, is set to the original control. This allows you to t
 4. Wait
 5. Profit (not really)
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Resources
 
 * [https://www.spriters-resource.com/pc_computer/3dmazescreensaver/sheet/124761/]()
@@ -57,4 +68,5 @@ Player control, by default, is set to the original control. This allows you to t
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 3D Maze is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php) and is available for free.
+
 
