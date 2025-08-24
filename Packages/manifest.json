@@ -10,8 +10,8 @@
     }
   ],
   "dependencies": {
+    "com.github.superunitybuild.buildactions": "4.0.1",
     "com.github.superunitybuild.buildtool": "7.0.0",
-    "com.github.superunitybuild.buildactions": "3.0.0",
     "com.unity.ai.navigation": "2.0.8",
     "com.unity.feature.development": "1.0.2",
     "com.unity.ide.rider": "3.0.36",
