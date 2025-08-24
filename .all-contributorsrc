@@ -7,17 +7,17 @@
   "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
-  "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "3DMaze",
   "projectOwner": "bsimser",
+  "contributorsPerLine": 7,
   "contributors": [
     {
       "login": "bsimser",
-      "name": "Bil Simser",
-      "avatar_url": "https://avatars.githubusercontent.com/u/430629",
+      "name": "Occular Malice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/430629?v=4",
       "profile": "https://github.com/bsimser",
       "contributions": [
         "code",
