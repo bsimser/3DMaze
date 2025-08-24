@@ -64,7 +64,7 @@ Player control, by default, is set to the original control. This allows you to t
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -72,6 +72,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bsimser"><img src="https://avatars.githubusercontent.com/u/430629" width="100px;" alt="Bil Simser"/><br /><sub><b>Bil Simser</b></sub></a><br /><a href="#code-bsimser" title="Code">💻</a> <a href="#doc-bsimser" title="Documentation">📖</a> <a href="#maintenance-bsimser" title="Maintenance">🚧</a> <a href="#infra-bsimser" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#test-bsimser" title="Tests">⚠️</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
