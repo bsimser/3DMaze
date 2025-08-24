@@ -2,6 +2,10 @@
 
 A recreation of the classic 3D Maze screensaver that was present in Microsoft Windows 95 using Unity.
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## Overview
 
 The maze is randomly generated each time, with the "player" navigating through it in first-person, spawning in front of a floating start button. From there, the maze is automatically traversed using the left-hand rule, which will guarantee the maze will eventually be solved because all of the randomly-generated mazes are simply connected.
@@ -18,6 +22,20 @@ Users can also enable an overlaid map, which constantly displays the maze using 
 
 * WASD to walk left, right, up, down
 * Left Shift or Right Mouse Button to run
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 * Mouse to look around (if using the Modern Control setting, see <b>Project Information</b> below)
 * ESC will exit the game (no prompt) or stop playing (if running from the Unity Editor)
 * TAB will toggle the overhead map
