@@ -39,7 +39,7 @@ Player control, by default, is set to the original control. This allows you to t
 
 ## Resources
 
-* [https://www.spriters-resource.com/pc_computer/3dmazescreensaver/sheet/124761/]()
+* [The Spriters Resource](https://www.spriters-resource.com/pc_computer/3dmazescreensaver/)
 
 ## License
 
