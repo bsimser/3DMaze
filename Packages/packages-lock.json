@@ -1,5 +1,21 @@
 {
   "dependencies": {
+    "com.github.superunitybuild.buildactions": {
+      "version": "4.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.github.superunitybuild.buildtool": "7.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.github.superunitybuild.buildtool": {
+      "version": "7.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
