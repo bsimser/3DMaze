@@ -69,7 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bsimser"><img src="https://avatars.githubusercontent.com/u/430629" width="100px;" alt="Bil Simser"/><br /><sub><b>Bil Simser</b></sub></a><br /><a href="#code-bsimser" title="Code">💻</a> <a href="#doc-bsimser" title="Documentation">📖</a> <a href="#maintenance-bsimser" title="Maintenance">🚧</a> <a href="#infra-bsimser" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#test-bsimser" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bsimser"><img src="https://avatars.githubusercontent.com/u/430629?v=4" width="100px;" alt="Occular Malice"/><br /><sub><b>Occular Malice</b></sub></a><br /><a href="#code-bsimser" title="Code">💻</a> <a href="#doc-bsimser" title="Documentation">📖</a> <a href="#maintenance-bsimser" title="Maintenance">🚧</a> <a href="#infra-bsimser" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#test-bsimser" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
