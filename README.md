@@ -14,6 +14,12 @@ The exit to the maze is a floating, translucent smiley face. Upon reaching it, t
 
 Users can also enable an overlaid map, which constantly displays the maze using simple vector graphics. On this map, the "player" is represented as a blue triangle, the start as a red triangle, the smiley face as a green triangle, the rocks as rotating white triangles, the OpenGL logos as stationary white triangles, and the rat as an orange triangle.
 
+## Gameplay
+
+* Mouse to look around (if using the Modern Control setting, see <b>Project Information</b> below)
+* ESC will exit the game (no prompt) or stop playing (if running from the Unity Editor)
+* TAB will toggle the overhead map
+
 ## Keyboard Commands
 
 * WASD to walk left, right, up, down
@@ -72,6 +78,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-* Mouse to look around (if using the Modern Control setting, see <b>Project Information</b> below)
-* ESC will exit the game (no prompt) or stop playing (if running from the Unity Editor)
-* TAB will toggle the overhead map
